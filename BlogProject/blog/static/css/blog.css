@@ -1,0 +1,58 @@
+body {
+				font-family: Monospace;
+				background-color: #f0f0f0;
+				margin: 0px;
+				overflow: hidden;
+			}
+
+.techfont{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.postdate{
+  text-align: center;
+}
+
+.posttitle{
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.postcontent{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
+
+/* *, *:before, *:after {
+  -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body { padding: 50px; }
+
+.blog_pots {
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  background: #eee;
+}
+
+.set-background {
+  width: 100%;
+  max-width: 200px;
+  height: 0;
+  padding-bottom: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+} */
